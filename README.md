@@ -11,12 +11,9 @@ The Aim of this repo is to be able to pull it down and spin up my infrastructure
 - [ ] Everything
 - [ ] Servers
 - [ ] Routers
-- [ ] Raspberry Pi's
-  - [ ] Install script
-- [ ] Docker 
-  - [ ] Install script
-  - [ ] Compose files
+- [ ] [Ansible](https://github.com/0lzi/ansible)
+  - [x] Raspberry Pi's
+    - [x] Docker 
   - [ ] Docker volumes ( scripts to backup and restore docker volumes )
-- [ ] Ansible
-  - [ ] Install Script
-  - [ ] Playbooks
+
+
